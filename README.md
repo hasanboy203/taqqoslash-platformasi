@@ -1,7 +1,7 @@
 repository ni clone qilib olish
 
 ```bash
-   git clone https://github.com/sayfillayev000/likes-app.git
+   git clone https://github.com/hasanboy203/taqqoslash-platformasi.git
 
    cd taqqoslash-platformasi
 ```
